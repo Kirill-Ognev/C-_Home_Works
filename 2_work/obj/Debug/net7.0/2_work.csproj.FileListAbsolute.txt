@@ -1,0 +1,15 @@
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\bin\Debug\net7.0\2_work.exe
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\bin\Debug\net7.0\2_work.deps.json
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\bin\Debug\net7.0\2_work.runtimeconfig.json
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\bin\Debug\net7.0\2_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\bin\Debug\net7.0\2_work.pdb
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.csproj.AssemblyReference.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.AssemblyInfo.cs
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\refint\2_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.pdb
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\2_work.genruntimeconfig.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\2_work\obj\Debug\net7.0\ref\2_work.dll
