@@ -1,0 +1,15 @@
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.csproj.AssemblyReference.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.AssemblyInfo.cs
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\bin\Debug\net7.0\6_work.exe
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\bin\Debug\net7.0\6_work.deps.json
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\bin\Debug\net7.0\6_work.runtimeconfig.json
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\bin\Debug\net7.0\6_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\bin\Debug\net7.0\6_work.pdb
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\refint\6_work.dll
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.pdb
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\6_work.genruntimeconfig.cache
+C:\Users\kiril\Desktop\учёба\C# Lessons\HomeWorks\6_work\obj\Debug\net7.0\ref\6_work.dll
