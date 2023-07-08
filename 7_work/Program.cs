@@ -214,3 +214,45 @@
 // int[,,] matrix = CreateMatrix(m, n, z);
 // PrintMatrix(matrix);
 
+
+int[,] Spiral(int n) 
+{
+    int[,] myArray = new int [n, n];
+
+    int pos = 1;
+    int count = n;
+    int value = -n;
+    int sum = -1;
+
+    while (count > 0) 
+    {
+        value = -1 * value / n;
+        for (int i = 0; i < count; i++) 
+            {
+                sum += value;
+                myArray[sum / n, sum % n] = pos++;
+            }
+            value *= n;
+            count--;
+        for (int i = 0; i < count; i++) 
+            {
+                sum += value;
+                myArray[sum / n, sum % n] = pos++;
+            }
+    } 
+
+    return myArray;
+}
+void PrintMatrix (int[,] matrix)
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            System.Console.Write(matrix[i, j] + "\t");
+        }
+        System.Console.WriteLine(" ");
+    }
+}
+int[,] matrix = Spiral(5);
+PrintMatrix(matrix);
